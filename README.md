@@ -4,7 +4,7 @@
 ## DACON Project
 
 ![image](https://github.com/jeongmin1016/TAVE11_DeepingSauce/assets/109460178/31871322-b4e0-4676-b9be-4914f55398c9)
-
+- [baseline]()
 - Competition: [월간 데이콘 법원 판결 예측 AI 경진대회](https://dacon.io/competitions/official/236112/overview/description)
 - Members: 김류현, 서가원, 안정민, 이의진
 
