@@ -25,7 +25,7 @@
 ### 5주차 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230610)
 - [김류현]
 - [서가원]
-- [안정민]
+- [안정민](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230617/0617_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_EDA.ipynb)
 - [이의진]
 
 
