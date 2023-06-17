@@ -26,7 +26,7 @@
 - [김류현]
 - [서가원]
 - [안정민](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230617/0617_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_EDA.ipynb)
-- [이의진]
+- [이의진](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230617/0617_EDA%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%89%E1%85%A5%E1%86%BC.ipynb)
 
 
 ## 참고 문헌
