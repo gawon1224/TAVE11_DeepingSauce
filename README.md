@@ -31,7 +31,8 @@
 
 ### 6주차-1 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230622)
 - [김류현]
-- [안정민]
+- 안정민
+  - [catboost]()
 - [이의진]
 
 ## 참고 문헌
