@@ -29,6 +29,10 @@
   - [catboost](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230617/0617_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_EDA2.ipynb)
 - [이의진](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230617/0617_EDA%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%89%E1%85%A5%E1%86%BC.ipynb)
 
+### 5주차 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230610)
+- [김류현]
+- [안정민]
+- [이의진]
 
 ## 참고 문헌
 밑바닥부터 시작하는 딥러닝 ❷
