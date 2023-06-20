@@ -39,3 +39,4 @@
 밑바닥부터 시작하는 딥러닝 ❷
 - [관련깃헙](https://github.com/WegraLee/deep-learning-from-scratch-2)    
 - 이론 스터디는 노션에 각자 업로드하여 주차별로 공유
+유사 대회 : [Kaggle_Supreme Court Judgement Prediction](https://www.kaggle.com/code/raghavkachroo/supreme-court-judgement-prediction)
