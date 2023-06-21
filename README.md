@@ -30,10 +30,14 @@
 - [이의진](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230617/0617_EDA%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%89%E1%85%A5%E1%86%BC.ipynb)
 
 ### 6주차-1 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230622)
-- [김류현]
+- 김류현
+  - [Naive Bayes]()
+- 서가원
+  - [XGBoost]()
 - 안정민
-  - [catboost]()
-- [이의진]
+  - [CatBoost]()
+- 이의진
+  - [LogisticRegression]
 
 ## 참고 문헌
 밑바닥부터 시작하는 딥러닝 ❷
