@@ -37,7 +37,7 @@
 - 안정민
   - [CatBoost]()
 - 이의진
-  - [LogisticRegression]
+  - [LogisticRegression]()
 
 ## 참고 문헌
 밑바닥부터 시작하는 딥러닝 ❷
