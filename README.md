@@ -37,7 +37,7 @@
 - 안정민
   - [CatBoost]()
 - 이의진
-  - [LogisticRegression]()
+  - [LogisticRegression](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/README.md?plain=1)
 
 ## 참고 문헌
 밑바닥부터 시작하는 딥러닝 ❷
