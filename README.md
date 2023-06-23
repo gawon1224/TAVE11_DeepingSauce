@@ -35,7 +35,9 @@
 - 서가원
   - [XGBoost]()
 - 안정민
-  - [CatBoost]()
+  - [CatBoost](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230622/0622_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_catboost.ipynb)
+  - [others](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230622/0622_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_modeltest.ipynb)
+
 - 이의진
   - [LogisticRegression](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230622/0622_modeling_baseline_submit_trainmode.ipynb)
 
