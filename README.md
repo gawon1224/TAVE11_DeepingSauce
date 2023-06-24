@@ -40,7 +40,7 @@
 
 - 이의진
   - [LogisticRegression](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230622/0622_modeling_baseline_submit_trainmode.ipynb)
-  - [LogisticRegression_범주형 확률 변수 추가함]()
+  - [LogisticRegression_범주형 확률 변수 추가함](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230622/0622_modeling_baseline_submit_trainmode_%E1%84%92%E1%85%AA%E1%86%A8%E1%84%85%E1%85%B2%E1%86%AF%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8E%E1%85%AE%E1%84%80%E1%85%A1%20(1).ipynb)
 
 ## 참고 문헌
 밑바닥부터 시작하는 딥러닝 ❷
