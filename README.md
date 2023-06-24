@@ -32,6 +32,8 @@
 ### 6주차-1 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230622)
 - 김류현
   - [Naive Bayes]()
+  - [others]
+(https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230622/0622_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_eda2.ipynb)
 - 서가원
   - [XGBoost](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230622/%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_XGBoost_0622.ipynb)
 - 안정민
