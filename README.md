@@ -51,6 +51,19 @@
 - [안정민]      
 - [이의진]
 
+### 7주차-1 : 0626 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230626)
+- [김류현]
+- 서가원
+  - [1st & 2nd party 이름 replace](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/16dc92c0002fec93e4cbc8eaeb47369b5d6d7342/230626/0626_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_text_replace.ipynb)
+- 안정민
+  - 파생변수 추가 : [issued_area](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230626/0626_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_catboost.ipynb)     
+- [이의진]
+
+
+
+
+
+
 ## 참고 문헌
 밑바닥부터 시작하는 딥러닝 ❷
 - [관련깃헙](https://github.com/WegraLee/deep-learning-from-scratch-2)    
