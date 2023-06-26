@@ -58,6 +58,7 @@
 - 안정민
   - 파생변수 추가 : [issued_area](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230626/0626_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_catboost.ipynb)     
 - [이의진]
+  - 당사자 분류 변수 추가(https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230626/0622_modeling_baseline_submit_trainmode_%ED%99%95%EB%A5%A0%EB%B3%80%EC%88%98%EC%B6%94%EA%B0%80%EC%9D%98_%EC%82%AC%EB%B3%B8%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)
 
 
 
