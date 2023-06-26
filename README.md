@@ -45,14 +45,15 @@
   - [LogisticRegression_범주형 확률 변수 추가함](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230622/0622_modeling_baseline_submit_trainmode_%E1%84%92%E1%85%AA%E1%86%A8%E1%84%85%E1%85%B2%E1%86%AF%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8E%E1%85%AE%E1%84%80%E1%85%A1%20(1).ipynb)
 
 ### 6주차-2 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230624)
-- [김류현]
+- 김류현
 - 서가원
   - [1st & 2nd party 이름 replace](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/16dc92c0002fec93e4cbc8eaeb47369b5d6d7342/230626/0626_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_text_replace.ipynb)
 - [안정민]      
 - [이의진]
 
 ### 7주차-1 : 0626 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230626)
-- [김류현]
+- 김류현
+  -nlp processed pycaret(https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230626/nlp_prodcess_pycaret.ipynb)
 - 서가원
   - [1st & 2nd party 이름 replace](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/16dc92c0002fec93e4cbc8eaeb47369b5d6d7342/230626/0626_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_text_replace.ipynb)
 - 안정민
