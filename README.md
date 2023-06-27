@@ -50,7 +50,7 @@
 - [안정민]      
 - [이의진]
 
-### 7주차-1 : 0626 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230626)
+### 7주차 : 0626 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230626)
 - 김류현
   - [nlp processed pycaret](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230626/nlp_prodcess_pycaret.ipynb)
 - 서가원
