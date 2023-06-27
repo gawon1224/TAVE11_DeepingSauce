@@ -52,8 +52,9 @@
 
 ### 7주차 : 0627 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230626)
 - 김류현
-  - [nlp processed pycaret](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230626/0626_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_nlp_paycaret_process_ver.ipynb)
-  - 전처리 후 pycaret 적용 [BOW-TF](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230626/0627_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_tf_pycaret.ipynb)
+  - 전처리 : [nlp processed pycaret](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230626/0626_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_nlp_paycaret_process_ver.ipynb)
+  - 전처리 후 pycaret 적용
+    - [BOW-TF](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230626/0627_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_tf_pycaret.ipynb)
 - 서가원
   - [1st & 2nd party 이름 replace](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/16dc92c0002fec93e4cbc8eaeb47369b5d6d7342/230626/0626_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_text_replace.ipynb)
   - [lstm 학습 시도](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230626/0626_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_lstm.ipynb)
