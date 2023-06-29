@@ -44,11 +44,6 @@
   - [LogisticRegression](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230622/0622_modeling_baseline_submit_trainmode.ipynb)
   - [LogisticRegression_범주형 확률 변수 추가함](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230622/0622_modeling_baseline_submit_trainmode_%E1%84%92%E1%85%AA%E1%86%A8%E1%84%85%E1%85%B2%E1%86%AF%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8E%E1%85%AE%E1%84%80%E1%85%A1%20(1).ipynb)
 
-### 6주차-2 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230624)
-- 김류현
-- 서가원
-- [안정민]      
-- [이의진]
 
 ### 7주차 : 0627 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230626)
 - 김류현
@@ -66,7 +61,11 @@
   - 파생변수 추가 : [당사자 분류](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230626/0626_%EB%8B%B9%EC%82%AC%EC%9E%90_%EC%9C%A0%ED%98%95_%EB%B6%84%EB%A5%98_%EC%BD%94%EB%93%9C.ipynb)
 
 
-
+### 7주차 0701 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230624)
+- 김류현
+- 서가원
+- [안정민]      
+- [이의진]
 
 
 
