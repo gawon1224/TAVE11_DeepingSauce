@@ -29,7 +29,7 @@
   - [catboost](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230617/0617_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_EDA2.ipynb)
 - [이의진](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230617/0617_EDA%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%89%E1%85%A5%E1%86%BC.ipynb)
 
-### 6주차-1 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230622)
+### 6주차 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230622)
 - 김류현
   - [Naive Bayes](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230622/0622_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_naivebayes.ipynb)
   - [others](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230622/0622_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_eda2.ipynb)
@@ -45,7 +45,7 @@
   - [LogisticRegression_범주형 확률 변수 추가함](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230622/0622_modeling_baseline_submit_trainmode_%E1%84%92%E1%85%AA%E1%86%A8%E1%84%85%E1%85%B2%E1%86%AF%E1%84%87%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8E%E1%85%AE%E1%84%80%E1%85%A1%20(1).ipynb)
 
 
-### 7주차 : 0627 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230626)
+### 7주차 0627 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230626)
 - 김류현
   - 전처리 : [nlp processed pycaret](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230626/0626_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_nlp_paycaret_process_ver.ipynb)
   - 전처리 후 pycaret 적용
