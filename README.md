@@ -61,7 +61,7 @@
   - 파생변수 추가 : [당사자 분류](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230626/0626_%EB%8B%B9%EC%82%AC%EC%9E%90_%EC%9C%A0%ED%98%95_%EB%B6%84%EB%A5%98_%EC%BD%94%EB%93%9C.ipynb)
 
 
-### 7주차 0701 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230624)
+### 7주차 0701 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230701)
 - 김류현
 - 서가원
 - [안정민]      
