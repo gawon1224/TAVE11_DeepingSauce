@@ -63,6 +63,7 @@
 
 ### 7주차 0701 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230701)
 - 김류현
+  - [꿋꿋한 전처리](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230701/0702_%EA%BF%8B%EA%BF%8B%ED%95%9C%20%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)
 - 서가원
   - [p1,p2로 변경](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230701/0628_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_replace_p1p2.ipynb)
 - [안정민]      
