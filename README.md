@@ -69,6 +69,17 @@
 - [안정민]      
 - [이의진]
 
+### Fin
+- [EDA]
+- [파생변수]
+- [전처리]
+- [pycaret]
+- [Boosting]
+- [Logistic Regression]
+- [LSTM]
+- [BERT]
+
+
 
 
 ## 참고 문헌
