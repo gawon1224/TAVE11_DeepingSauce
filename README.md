@@ -71,7 +71,7 @@
 
 ### Fin
 - [EDA]
-- [파생변수]
+- [파생변수](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/fin/0710_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_%ED%8C%8C%EC%83%9D%EB%B3%80%EC%88%98fin.ipynb)
 - [전처리]
 - [pycaret]
 - [Boosting]
