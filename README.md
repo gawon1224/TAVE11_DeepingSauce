@@ -68,7 +68,7 @@
   - [p1,p2로 변경](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230701/0628_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_replace_p1p2.ipynb)
 - [안정민]      
 - [이의진]
-
+  - [bert첫 시도](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230701/0701_bert(%EB%84%88%EB%AC%B4%20%ED%9E%98%EB%93%9C%EB%9F%AC%2C%2C%2C%2C%2C).ipynb)
 ### Fin
 - [EDA]
 - [파생변수](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/fin/0710_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_%ED%8C%8C%EC%83%9D%EB%B3%80%EC%88%98fin.ipynb)
