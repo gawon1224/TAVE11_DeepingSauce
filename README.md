@@ -77,7 +77,7 @@
 - [Boosting]
 - [Logistic Regression]
 - [LSTM](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/fin/0710_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_lstm_final.ipynb)
-- [BERT]
+- [BERT](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/fin/0702%20bert.ipynb)
 
 
 
